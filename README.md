@@ -23,8 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Azure tenent 
-- Active subcription 
+- Azure Tenent 
+- Active Subcription 
 - Resource Group
 - Virtual Network
 - Subnet
